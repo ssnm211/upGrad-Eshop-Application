@@ -1,0 +1,14 @@
+.loginBucket {
+  width: 500px;
+  padding: 10px 20px;
+  margin: 100px auto;
+  height: 100%;
+  text-align: center;
+}
+.avatarIcon {
+  background-color: deeppink !important;
+  margin: 10px auto;
+}
+.loginFooter {
+  text-align: center;
+}
